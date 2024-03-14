@@ -1,5 +1,11 @@
 # TankGame
-一个由java程序写的简陋版tank game![截屏2024-03-14 19.52.18](/Users/leojackasher/Library/Application Support/typora-user-images/截屏2024-03-14 19.52.18.png)
+一个由java程序写的简陋版tank game
+
+
+
+![image-20240314195650488](/Users/leojackasher/Library/Application Support/typora-user-images/image-20240314195650488.png)
+
+
 
 + 该项目仅用于测试GitHub上传文件
 
