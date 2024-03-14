@@ -2,8 +2,7 @@
 一个由java程序写的简陋版tank game
 
 
-![Image text]([https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg](https://github.com/jackasher36/TankGame/blob/main/image-20240314195650488.png))
-
+![Image text](https://github.com/jackasher36/TankGame/blob/main/image-20240314195650488.png)
 
 + 该项目仅用于测试GitHub上传文件
 
