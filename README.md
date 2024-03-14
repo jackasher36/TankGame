@@ -1,6 +1,6 @@
 # TankGame
 一个由java程序写的简陋版tank game
-https://github.com/jackasher36/TankGame/blob/main/MyTank02.iml
+![Image text](https://github.com/jackasher36/TankGame/blob/main/MyTank02.iml)
 
 + 该项目仅用于测试GitHub上传文件
 
